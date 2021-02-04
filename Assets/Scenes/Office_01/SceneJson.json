@@ -1,0 +1,10 @@
+{
+	"Scene":[
+		{"prop": 0, name:"File_Cabinet_Left", vcam:"CM_filecabinetCam"},
+		{"prop": 1, name:"File_Cabinet_Right", vcam:"CM_filecabinetCam"},
+		{"prop": 2, name:"Clue_Board", vcam: "CM_clueCam"},
+		{"prop": 3, name:"Table_Top", vcam:"CM_tabletopCam"},
+		{"prop": 4, name:"Table_Front", vcam:"CM_tablefrontCam"},
+		{"prop": 5, name:"Book_Shelf", vcam:"CM_bookshelfCam"}		
+	]
+}
